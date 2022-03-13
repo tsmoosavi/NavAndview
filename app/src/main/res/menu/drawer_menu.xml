@@ -9,7 +9,8 @@
             android:title="home" />
         <item
             android:id="@+id/nav_gallery"
-            android:title="gallery" />
+            android:title="gallery"
+            />
         <item
             android:id="@+id/nav_slideshow"
             android:title="slideshow" />
