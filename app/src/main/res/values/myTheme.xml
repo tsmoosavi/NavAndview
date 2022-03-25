@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="newThem" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:textSize">40dp</item>
+        <item name="colorPrimary">#c2185b</item>
+        <item name="colorPrimaryVariant">#fa5788</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#ffebee</item>
+        <item name="colorSecondaryVariant">#ccb9bc</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#b71c1c</item>
+    </style>
+</resources>
